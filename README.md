@@ -12,7 +12,7 @@ I am always interested in the speed problem.
 Because  with a lot of subscribers..
 Please et's exchange each other's experiences and skills.
     
-<a href = "google.com"><p><strong>📞Contact Me</strong></p><a>
+<a hre ="google.com"><p><strong>📞Contact Me</strong></p></a>
   
   <td/>
    
