@@ -12,10 +12,8 @@ I am always interested in the speed problem.
 Because  with a lot of subscribers..
 Please et's exchange each other's experiences and skills.
     
-   <div>
-    <img src = "./contact-us-icon.svg/" /> 
-      Contact Me
-    </div>
+<a href = "google.com"><h2>📞Contact Me<h2><a>
+  
   <td/>
    
   <img src="https://adityasjournal.files.wordpress.com/2019/03/this-analysis-is-based-on-the-number-of-job-postings-for-each-language.jpg" align="right" /><br/>
