@@ -24,10 +24,11 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-
-<img align="left" width=500px height=auto alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" />
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<p align="center">
+<img align="center" width=500px height=auto alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" />
+</p>
+<h4 align="center">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<h2 align="center">***Talking about Personal Stuffs...***</h2>
 <p style="margin: 10px">
 <p>&nbsp;✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br></p>
 <p>&nbsp;✔ I specialize in creating intuitive, engaging, and efficient digital experiences that not only captivate users but also
@@ -44,7 +45,7 @@ with the target audience and align with your business objectives. <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔  I pride myself on my web development, collaboration skills.*<br><br><br><br>
  </p>
-
+</h4>
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
   
